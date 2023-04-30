@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luvtiwadi
-- 👀 I’m interested in c++ , Python
+- 👀 I’m interested in c++ , Python,Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on c++ programs
 - 📫 You can email-id==> lovetiwadi5@gmail.com
